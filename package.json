@@ -1,0 +1,23 @@
+{
+  "name": "erin-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingluddite/erin-handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingluddite/erin-handlebars/issues"
+  },
+  "homepage": "https://github.com/kingluddite/erin-handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
